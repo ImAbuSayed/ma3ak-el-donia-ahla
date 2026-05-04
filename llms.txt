@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ma3ak El Donia Ahla |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-el-donia-ahla/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نور عينيا وروحي فيك.. حبيبي..
+> كل ثانية قلبي يناديك
+> في حضنك بلاقي الأمان
+> معاك الدنيا أحلى مكان.. أحلى مكان..
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)

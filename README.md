@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-el-donia-ahla/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Ma3ak El Donia Ahla](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Ma3ak El Donia Ahla](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma3ak El Donia Ahla
+
+This log tracks the cryptographic history and versioning for the song **Ma3ak El Donia Ahla** (ma3ak-el-donia-ahla).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:50:52.694829 | `v1` | `f30c6848f1352fcd04850fbb81d30089010dd927788258a0b140880d858b09e9` | `ea36aa933b9a95a05b54fcad237bd18d1ea686b31674c287706ad7c628355231` | `2026-05-08_ma3ak-el-donia-ahla-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
